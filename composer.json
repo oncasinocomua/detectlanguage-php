@@ -16,7 +16,7 @@ Array
         (
             [0] => stdClass Object
                 (
-                    [language] => es
+                    [language] => uk
                     [isReliable] => 1
                     [confidence] => 10.24
                 )
@@ -27,7 +27,7 @@ Array
         (
             [0] => stdClass Object
                 (
-                    [language] => en
+                    [language] => ru
                     [isReliable] => 1
                     [confidence] => 11.94
                 )
